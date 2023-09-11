@@ -30,4 +30,4 @@ function App() {
   )
 }
 
-export default App //oiiii :3
+export default App // :3
